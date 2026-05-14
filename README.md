@@ -12,14 +12,14 @@ This part presents a complete AI solution design for a real-world business probl
 **Finance / Banking — Loan Default Prediction System**
 
 ## Repository Structure
-```
+
 part-4-ai-solution-design/
 │
 ├── README.md
 ├── solution_report.md
 └── diagrams/
     └── solution_architecture.png
-```
+
 
 ## Problem Summary
 Banks manually review thousands of loan applications, taking 3-7 days per decision. This AI solution uses a Feed-Forward Neural Network to predict loan default risk in real-time, reducing processing time to under 1 hour while maintaining human oversight for complex cases.
